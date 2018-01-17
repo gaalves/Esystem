@@ -8,8 +8,12 @@
             <div class="panel panel-default">
                 
                 
-                <div class="panel-heading">Listagem Pagamentos teste
-asefasef
+                <div class="panel-heading">Listagem Pagamentos 
+                    
+                    <button class="btn btn-primary" type="submit" id="add">
+                        <span class="glyphicon glyphicon-plus"></span> Lançar Pagamentos
+                    </button>
+               
                 </div>
 
 

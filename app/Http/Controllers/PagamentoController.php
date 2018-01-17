@@ -16,7 +16,8 @@ class PagamentoController extends Controller
     public function index(){
     	$pagamentos = Pagamento::all();
     	
-    	return view('pagamentos.pagamento', compact('pagamentos'));
+    	return view('pagamentos.pagamento', compact('pagamentos')); 
+        
     }
     
 }
